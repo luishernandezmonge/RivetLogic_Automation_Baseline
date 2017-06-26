@@ -6,6 +6,8 @@
 		<classes>
 			<class
 				name="rivetlogic.automation.baseline.testcases.basetestsuite.samples.QuickLinkAndRecentLinkTestCases" />
+					<class
+				name="rivetlogic.automation.baseline.testcases.basetestsuite.samples.AppsAndLinksTestCases" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
